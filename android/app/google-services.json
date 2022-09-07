@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "318551553736",
+    "project_id": "rockethelp-f109d",
+    "storage_bucket": "rockethelp-f109d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318551553736:android:2908aeaef63b9daf9bd7fd",
+        "android_client_info": {
+          "package_name": "com.alftecnologia.rockethelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318551553736-q94k7tjdmgucs65hg1aqnp5jm0pteanq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQrnRmhLsdcAhBSyv7IKRSQFL83R_TZE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318551553736-q94k7tjdmgucs65hg1aqnp5jm0pteanq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318551553736-kpak7b1k1bs4jrn6m6512371vqp815e0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alftecnologia.rockethelp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
